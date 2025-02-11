@@ -3,5 +3,6 @@ class Solution:
         citations.sort()
         h=0
         for i in range(len(citations)):
-            h=max(h,min(len(citations)-i, citations[i]))
+            if len(citations)-i<=citations[i]:
+                h=max(h,len(citations)-i)
         return h
