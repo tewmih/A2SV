@@ -1,6 +1,5 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        chemistry=-1
         skill.sort()
         left = 0
         right=len(skill)-1
@@ -9,9 +8,7 @@ class Solution:
             result.extend([skill[left],skill[right]])
             left+=1
             right-=1
-        print(result)
         check=result[0]+result[1]
-        print(check)
         total=0
         l=0
         r=1
