@@ -11,7 +11,6 @@ class Solution:
                 window=window+nums[i]-nums[left]
                 left+=1
             if i>=k-1:
-                max_window=window
-                max_val=max(max_window,max_val)
+                max_val=max(window,max_val)
         return max_val/k
         
