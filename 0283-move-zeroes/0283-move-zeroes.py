@@ -11,7 +11,7 @@ class Solution:
                 seeker+=1
                 holder+=1
                 continue
-            if nums[seeker]==0:
+            elif nums[seeker]==0:
                 seeker+=1
                 continue
             seeker+=1
