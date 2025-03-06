@@ -2,7 +2,6 @@ class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
 
         points.sort(key = lambda x:(x[1]))
-        print(points)
         left = 0
         count = 0
         _min_end = float('inf')
