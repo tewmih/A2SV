@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tewmih/A2SV/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tewmih/A2SV/tree/master/0035-search-insert-position) |
 | [0228-summary-ranges](https://github.com/tewmih/A2SV/tree/master/0228-summary-ranges) |
 ## Binary Search
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tewmih/A2SV/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tewmih/A2SV/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
