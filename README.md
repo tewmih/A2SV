@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tewmih/A2SV/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tewmih/A2SV/tree/master/0035-search-insert-position) |
 | [0228-summary-ranges](https://github.com/tewmih/A2SV/tree/master/0228-summary-ranges) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tewmih/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tewmih/A2SV/tree/master/0001-two-sum) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tewmih/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Prefix Sum
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tewmih/A2SV/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
